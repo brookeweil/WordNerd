@@ -20,6 +20,8 @@ If you need help, you can always say `@WordNerd help!`
 ###How it's Built 
 This project was built in Node.js using AWS's and Slack's SDKs. We also used a Zeit Now server to host this code. DynamoDB is the datastore for words, definitions, and counts.
 
+To check for common names and abbreviations, I used a hardcoded array of each that I made from lists on the internet. To check for valid English words, I used the node package `check-word`.
+
 
 
 ![WordNerd pro pic](nerd.jpeg)
