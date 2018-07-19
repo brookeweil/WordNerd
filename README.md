@@ -26,4 +26,4 @@ I also found WordNerd's profile pic by Googling "open dictionary clipart." The o
 
 
 
-![WordNerd pro pic](nerd.jpeg)
+![WordNerd pro pic](nerd.png)
