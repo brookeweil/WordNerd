@@ -22,6 +22,8 @@ This project was built in Node.js using AWS's and Slack's SDKs. We also used a Z
 
 To check for common names and abbreviations, I used a hardcoded array of each that I made from lists on the internet. To check for valid English words, I used the node package `check-word`.
 
+I also found WordNerd's profile pic by Googling "open dictionary clipart." The original image is [here](https://www.google.com/search?q=OPEN+dictionary+clipart&tbm=isch&source=iu&ictx=1&fir=Xc2UIKXjhD_pMM%253A%252CbMhPWWeyJuNjwM%252C_&usg=__GBSjj9EDi1hA4ZHoMwyS-ql9Dhg%3D&sa=X&ved=0ahUKEwiR6KmCyavcAhUESN8KHcdACVgQ9QEIOTAI#imgrc=Xc2UIKXjhD_pMM:)
+
 
 
 ![WordNerd pro pic](nerd.jpeg)
